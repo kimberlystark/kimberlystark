@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimberlystark
-- 👀 I’m interested in Web Development, create javascript
+- 👀 I’m interested in Web Development, UX/UI Design and creative javascript
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me kimstark@protonmail.com
 
 <!---
